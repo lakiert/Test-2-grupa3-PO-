@@ -36,8 +36,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-
-        // zad 1
+        
 
         ArrayList<Kandydat> grupa = new ArrayList<Kandydat>();
 
