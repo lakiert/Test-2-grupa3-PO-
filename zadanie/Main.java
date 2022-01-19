@@ -2,7 +2,6 @@ package com.company;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 
 public class Main {
@@ -36,7 +35,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        
+
 
         ArrayList<Kandydat> grupa = new ArrayList<Kandydat>();
 
